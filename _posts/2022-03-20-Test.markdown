@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "한글 가독성 테스트"
-date:   2022-03-20 16:07:30 +0530
-categories: Test
+date:   2022-03-20 16:07:30 +0531
+categories: Java
 ---
 
 아아~~~ 한글이 잘나오는지 궁금해서 테스트해보고 있습니다~~~ 
